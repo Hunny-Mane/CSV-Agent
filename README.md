@@ -2,7 +2,7 @@
 
 Welcome to the **Talk to Data (CSV Agent)** project! This Google Colab notebook empowers you to interact with your CSV data using natural language. Powered by **Google's Gemini 1.5 Flash** and **LangChain**, it allows you to ask questions, analyze data, and generate visualizations effortlessly without writing complex code.
 
-## 🚀 Features
+##  Features
 
 *   **Natural Language Queries**: Ask questions about your data in plain English (e.g., "What is the average age?", "Show me the distribution of sales").
 *   **Automated Visualization**: The agent can automatically generate and display charts (Matplotlib/Seaborn) based on your queries.
@@ -10,14 +10,14 @@ Welcome to the **Talk to Data (CSV Agent)** project! This Google Colab notebook 
 *   **Interactive Interface**: Simple input loop to ask multiple follow-up questions.
 *   **Secure API Key Management**: Uses Google Colab's strict Secrets management for your API key.
 
-## 🛠️ Prerequisites
+##  Prerequisites
 
 Before you begin, ensure you have the following:
 
 1.  **Google Account**: To access Google Colab.
 2.  **Google Gemini API Key**: You need an API key from Google AI Studio. Get one [here](https://aistudio.google.com/app/apikey).
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 1.  **Open the Notebook**:
     Open the `Talk_to_Data_CSV_Agent.ipynb` file in Google Colab.
@@ -31,7 +31,7 @@ Before you begin, ensure you have the following:
 3.  **Install Dependencies**:
     The first cell of the notebook contains commands to install all necessary Python libraries. Run this cell to set up the environment.
 
-## 📖 Usage
+##  Usage
 
 1.  **Run All Cells**:
     You can run the cells sequentially.
@@ -48,7 +48,7 @@ Before you begin, ensure you have the following:
 3.  **Exit**:
     *   Type `exit` or `quit` in the input box to stop the agent.
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 *   **[Google Colab](https://colab.research.google.com/)**: Interactive development environment.
 *   **[LangChain](https://www.langchain.com/)**: Framework for building LLM applications.
