@@ -1,4 +1,4 @@
-# Talk to Data (CSV Agent)
+# Talk to Data ( CSV Agent )
 
 Welcome to the **Talk to Data (CSV Agent)** project! This Google Colab notebook empowers you to interact with your CSV data using natural language. Powered by **Google's Gemini 1.5 Flash** and **LangChain**, it allows you to ask questions, analyze data, and generate visualizations effortlessly without writing complex code.
 
