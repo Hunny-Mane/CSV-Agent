@@ -12,7 +12,6 @@ Welcome to the **Talk to Data (CSV Agent)** project! This Google Colab notebook 
 
 ##  Prerequisites
 
-
 Before you begin, ensure you have the following:
 
 1.  **Google Account**: To access Google Colab.
